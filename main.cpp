@@ -10,11 +10,7 @@
 #include <algorithm>
 #include <iterator>
 
-//using namespace std;
-
-void getString(string s) {
-        cout << s << endl;
-}
+using namespace std;
 
 
 int isInsideMatrix(vector<CMatrix> matricesArray,string target) {
